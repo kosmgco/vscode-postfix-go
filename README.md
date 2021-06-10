@@ -33,6 +33,9 @@ All available templates (`expr` means the expression on which the template is ap
 | **.struct**       | `type expr struct` |
 | **.interface**    | `type expr interface` |
 | **.switch**       | `switch expr` |
+| **.cap**          | `cap(expr)` |
+| **.p**            | `&expr` |
+| **.d**            | `*expr` |
 
 ## Author
 
